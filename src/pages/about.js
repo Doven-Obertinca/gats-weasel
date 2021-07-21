@@ -120,6 +120,7 @@ const AboutPage = () => {
       </div>
     </Layout>
   );
-};
 
+};
+    console.log(hover4)
 export default AboutPage;
